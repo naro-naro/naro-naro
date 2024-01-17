@@ -1,5 +1,7 @@
-### Hi there 👋
+##### Hi there 👋
 
+- Email : ccusy@naver.com
+- Blog : https://blog.naver.com/naro_naro_
 <!--
 **naro-naro/naro-naro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
