@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naro-naro&langs_count=10&exclude_repo=Colab&hide=javascript,html,css,php&layout=donut)](https://github.com/naro-naro/github-readme-stats)
+<!-- <br>![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=naro-naro&show_icons=true) -->
 
 - ✉ Email : ccusy@naver.com
 - 📝 Blog : [https://blog.naver.com/naro_naro_/](https://blog.naver.com/naro_naro_)
