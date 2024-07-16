@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 <!-- <br>![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=naro-naro&show_icons=true) -->
 
 - ✉ Email : ccusy@naver.com
+- 💬 notion : https://www.notion.so/b257ccb1e25e421b883902936df40b4e
 - 📝 Blog : [https://blog.naver.com/naro_naro_/](https://blog.naver.com/naro_naro_)
