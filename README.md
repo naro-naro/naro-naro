@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:FFC0CB,100:FFE4C4&height=300&section=header&text=こんにちは✿&fontSize=50&fontColor=FFFFFF&desc=日々努力を積み重ねていくエンジニアのパク·シヨンです。&descSize=23&descAlignY=65" />
 
 ## Contact me ##
-- ✉ Email : [ccusy@naver.com](ccusy@naver.com)
+- ✉ Email : ccusy@naver.com
 - 💬 notion : [notion_parksiyeon](https://www.notion.so/b257ccb1e25e421b883902936df40b4e)
 - 📝 Blog : [blog.naver.com/naro_naro_](https://blog.naver.com/naro_naro_)
 
