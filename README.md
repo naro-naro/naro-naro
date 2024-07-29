@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:FFC0CB,100:FFE4C4&height=300&section=header&text=こんにちは✿&fontSize=50&fontColor=FFFFFF&desc=日々努力を積み重ねていくエンジニアのパク·シヨンです。&descSize=23&descAlignY=65" />
 
-## Contact me ##
+## ✿ Contact me ##
 - ✉ Email : ccusy@naver.com
 - 💬 Notion : [自己紹介_parksiyeon](https://www.notion.so/b257ccb1e25e421b883902936df40b4e)
 - 📝 Blog : [blog.naver.com/naro_naro_](https://blog.naver.com/naro_naro_)
@@ -12,7 +12,7 @@
 
 </br>
 
-## Language ##
+## ✿ Language ##
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -21,14 +21,14 @@
 
 </br>
 
- ## Data analysis ##
+ ## ✿ Data analysis ##
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
  
 </br>
 
-## Tool ##
+## ✿ Tool ##
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <img src="https://img.shields.io/badge/Rstudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
