@@ -2,7 +2,6 @@
 
 ## ✿ Contact me ##
 - ✉ Email : ccusy@naver.com
-- 💬 Notion : [自己紹介_parksiyeon](https://www.notion.so/b257ccb1e25e421b883902936df40b4e)
 - 📝 Blog : [blog.naver.com/naro_naro_](https://blog.naver.com/naro_naro_)
 
 </br>
