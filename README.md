@@ -7,7 +7,7 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naro-naro&langs_count=10&exclude_repo=Colab,summarize-hufs-noti&layout=donut)](https://github.com/naro-naro/github-readme-stats)
-<!-- <br>![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=naro-naro&show_icons=true) -->
+ <br>![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=naro-naro&show_icons=true) -->
 
 </br>
 
